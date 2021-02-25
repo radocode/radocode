@@ -11,5 +11,5 @@
 - 🔭 I’m currently working on a Vue.js, Vuetify, NestJS and AWS Lambda stack for an insurance company :)
 - 🌱 I’m currently learning Golang, and all it's beauty. I am also learning a great deal of AWS Lambda!
 - 💬 Ask me about Angular, or Typescript :D don't be shy!
-- 📫 How to reach me: My twitter @radocodecl or over Linkedin https://www.linkedin.com/in/franciscogonzalezlorca/
+- 📫 How to reach me: My twitter https://twitter.com/radocodecl or over Linkedin https://www.linkedin.com/in/franciscogonzalezlorca/
 - 😄 Pronouns: He/him
