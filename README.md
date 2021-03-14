@@ -4,7 +4,7 @@
 
 - I enjoy a lot working and researching on new technologies, with small, simple, yet very effective solutions. My favorite frameworks/libraries/runtimes are Angular 2+ and React.js, but I also know Node.js and .NET (C#).
 
-- I am passionate to help and guide people around with my current knowledge, and I am always willing to learn new things. I do a lot of research in order to share it later with everyone whenever I can. Always open to learn a new language or tech!
+- I love to help and guide people around with my current knowledge, and I am always willing to learn new things. I do a lot of research in order to share it later with everyone whenever I can. Always open to learn a new language or tech!
 
 - I like to work under Agile methods and Scrum/Kanban teams as well.
 
