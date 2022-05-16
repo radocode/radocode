@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋
 
 - I am a Fullstack Developer, mainly focused in Javascript. I have experiences working with fintech, retail and transport industries.
 
