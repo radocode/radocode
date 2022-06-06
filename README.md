@@ -8,6 +8,8 @@
 
 - I like to work under Agile methods and Scrum/Kanban teams.
 
+- I am currently looking for new opportunities and to relocate to Canada 🍁.
+
 - 🔭 I’ve done an app made in Vue.js, Vuetify, NestJS and AWS Lambda stack for a banking/insurance company.
 - 🌱 I’m currently learning Golang, and all it's beauty. I am also learning a great deal of AWS Lambdas.
 - 📫 How to reach me: My twitter https://twitter.com/radocodecl or over Linkedin https://www.linkedin.com/in/franciscogonzalezlorca/
