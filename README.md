@@ -8,7 +8,7 @@
 
 - I like to work under Agile methods and Scrum/Kanban teams.
 
-- I am currently looking to relocate to Canada 🍁.
+- I am currently looking to relocate to Canada 🍁 or Spain.
 
 - 🔭 I’ve done an app made in Vue.js, Vuetify, NestJS and AWS Lambda stack for a banking/insurance company.
 - 🌱 I’m currently learning Next.js, AWS Lambdas and a bit of Golang.
