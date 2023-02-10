@@ -11,6 +11,6 @@
 - I am currently looking to relocate to Canada 🍁 or Spain.
 
 - 🔭 I’ve done an app made in Vue.js, Vuetify, NestJS and AWS Lambda stack for a banking/insurance company.
-- 🌱 I’m currently learning Next.js, AWS Lambdas and a bit of Golang.
+- 🌱 I’m currently learning Next.js and AWS Lambdas.
 - 📫 How to reach me: My twitter https://twitter.com/radocodecl or over Linkedin https://www.linkedin.com/in/franciscogonzalezlorca/
 - 😄 Pronouns: He/him
