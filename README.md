@@ -8,7 +8,6 @@
 
 - I like to work under Agile methods and Scrum/Kanban teams.
 
-- I am currently looking to relocate to Portugal or Spain.
 - I ♥ remote work!
 
 - 🔭 I’ve done an app made in Vue.js, Vuetify, NestJS and AWS Lambda stack for a banking/insurance company.
