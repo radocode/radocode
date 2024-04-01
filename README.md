@@ -4,7 +4,7 @@
 
 - I am a Fullstack Developer, mainly focused in Javascript and TypeScript.
 
-- Enjoy a lot working and researching on new technologies, with nice and effective solutions.
+- Enjoy a lot working and learning with new technologies, with nice and effective solutions.
 
 - My favorite frameworks/libraries/runtimes are Angular 2+, React.js and Node.js (express.js).
 
