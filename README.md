@@ -1,8 +1,12 @@
 ### Greetings 👋
 
-- I am a Fullstack Developer, mainly focused in Javascript and TypeScript. I have experiences working with fintech, retail and transport industries.
+- My name is Francisco, and I would like to help you bring the best value I can with my past experiences and work in diverse industries, including Banking and Retail.
 
-- Enjoy a lot working and researching on new technologies, with small, simple, yet very effective solutions. My favorite frameworks/libraries/runtimes are Angular 2+, React.js and Node.js (express.js).
+- I am a Fullstack Developer, mainly focused in Javascript and TypeScript.
+
+- Enjoy a lot working and researching on new technologies, with nice and effective solutions.
+
+- My favorite frameworks/libraries/runtimes are Angular 2+, React.js and Node.js (express.js).
 
 - Always open to learn a new language or tech!
 
@@ -10,7 +14,7 @@
 
 - I ♥ remote work!
 
-- 🔭 I’ve done an app made in Vue.js, Vuetify, NestJS and AWS Lambda stack for a banking/insurance company.
-- 🌱 I’m currently learning Next.js and AWS Lambdas.
+- 🔭 Check out my portfolio and other projects here https://radocode.github.io/ ❤️
+- 🌱 I’m currently learning about Leadership and related soft skills needed to lead a team as a Senior Dev ✨.
 - 📫 How to reach me: My twitter https://twitter.com/radocodecl or over Linkedin https://www.linkedin.com/in/franciscogonzalezlorca/
 - 😄 Pronouns: He/him
