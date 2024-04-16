@@ -5,8 +5,6 @@
 - I am Experienced Full Stack Developer with a robust history of developing and enhancing web applications across
 banking, retail, and transport sectors.
 
-- Enjoy a lot working and learning with new technologies, with nice and effective solutions.
-
 - My favorite frameworks/libraries/runtimes are Angular 2+, React.js and Node.js (express.js).
 
 - Always open to learn a new language or tech!
