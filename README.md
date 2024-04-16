@@ -1,8 +1,9 @@
 ### Greetings 👋
 
-- My name is Francisco, and I would like to help you bring the best value I can with my past experiences and work in diverse industries, including Banking and Retail.
+- I am Francisco, nice to meet you!
 
-- I am a Fullstack Developer, mainly focused in Javascript and TypeScript.
+- I am Experienced Full Stack Developer with a robust history of developing and enhancing web applications across
+banking, retail, and transport sectors.
 
 - Enjoy a lot working and learning with new technologies, with nice and effective solutions.
 
