@@ -14,7 +14,7 @@ banking, retail, and transport sectors.
 - I ♥ remote work!
 
 - 🔭 Check out my portfolio and other projects here https://radocode.github.io/ ❤️
-- 🌱 I’m currently learning about Leadership and related soft skills needed to lead a team as a Senior Dev ✨.
+- 🌱 I’m also currently learning on https://www.boot.dev/ about Python, Go, Kubernetes and so much more!✨.
 - 📫 How to reach me: My twitter https://twitter.com/radocodecl or over Linkedin https://www.linkedin.com/in/franciscogonzalezlorca/
 - 😄 Pronouns: He/him
 
